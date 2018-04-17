@@ -1,3 +1,5 @@
+//parktaegune Nodejs
+
 let nPort = 8000;
 let sHos = 'localhost'
 const myServer = require('./myServer');
